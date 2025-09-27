@@ -23,6 +23,7 @@ arrrg "how i met your mother" 100
 This will return the top 100 magnet links in table format for the search term `How I met your Mother` (case insensitive.)
 
 ## Installation
+### Only for x86_64
 Run the following command in a terminal:
 ```bash
 curl -fsSL https://raw.githubusercontent.com/arashm-gh/arrrg/main/install.sh | bash
